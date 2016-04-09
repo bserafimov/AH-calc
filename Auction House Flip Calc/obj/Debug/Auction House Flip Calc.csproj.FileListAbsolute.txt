@@ -1,0 +1,9 @@
+c:\users\b\documents\visual studio 2015\Projects\Auction House Flip Calc\Auction House Flip Calc\bin\Debug\Auction House Flip Calc.exe.config
+c:\users\b\documents\visual studio 2015\Projects\Auction House Flip Calc\Auction House Flip Calc\bin\Debug\Auction House Flip Calc.exe
+c:\users\b\documents\visual studio 2015\Projects\Auction House Flip Calc\Auction House Flip Calc\bin\Debug\Auction House Flip Calc.pdb
+c:\users\b\documents\visual studio 2015\Projects\Auction House Flip Calc\Auction House Flip Calc\obj\Debug\Auction House Flip Calc.csprojResolveAssemblyReference.cache
+c:\users\b\documents\visual studio 2015\Projects\Auction House Flip Calc\Auction House Flip Calc\obj\Debug\Auction_House_Flip_Calc.Form1.resources
+c:\users\b\documents\visual studio 2015\Projects\Auction House Flip Calc\Auction House Flip Calc\obj\Debug\Auction_House_Flip_Calc.Properties.Resources.resources
+c:\users\b\documents\visual studio 2015\Projects\Auction House Flip Calc\Auction House Flip Calc\obj\Debug\Auction House Flip Calc.csproj.GenerateResource.Cache
+c:\users\b\documents\visual studio 2015\Projects\Auction House Flip Calc\Auction House Flip Calc\obj\Debug\Auction House Flip Calc.exe
+c:\users\b\documents\visual studio 2015\Projects\Auction House Flip Calc\Auction House Flip Calc\obj\Debug\Auction House Flip Calc.pdb
