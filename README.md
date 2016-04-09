@@ -1,2 +1,6 @@
 # AH-calc
-Auction house calc project
+Auction house flip calculator project
+
+
+Calculates AH fees applicable when you flip things. 
+Deposits are ignored.
